@@ -1,0 +1,4 @@
+Jiří;Antl;2006-08-23;ano;3
+Karel;Reis;2024-02-14;ne;1
+Jakub;Antl;2009-03-09;ano;2
+Martin;Šimůnek;1982-12-23;ne;1
